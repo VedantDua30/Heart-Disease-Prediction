@@ -1,4 +1,4 @@
-# 🫀 Heart Disease Predictor — Random Forest in Java
+# 🫀 Heart Disease Predictor 
 
 A command-line application that predicts the risk of heart disease using a **Random Forest classifier**, built from scratch in pure Java with no external libraries.
 
